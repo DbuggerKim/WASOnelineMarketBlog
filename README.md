@@ -16,4 +16,4 @@
 
 > functions : dash board, upload page
 
-> contents : based on serverless, DBMSless framework and front-end languages created WAS
+> contents : created WAS-like functions based on serverless, DBMSless framework and front-end languages
