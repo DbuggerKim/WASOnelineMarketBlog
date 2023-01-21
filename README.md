@@ -12,7 +12,7 @@
 
 > timespent : 2022.12
 
-> tech : css, html, Firebase, Visual Studio Code
+> tech : css, html, Firebase, VS Code
 
 > functions : dash board, upload page
 
